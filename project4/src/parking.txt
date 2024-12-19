@@ -1,0 +1,11 @@
+xcfghj;dfghj;12b2;ghjg;jkjk;vide;B;mensuelle;voiture;oui;1;1;0;27;1;1;sami;265
+xgfn;xgfn;gfxn;xgnf;xgnf;nonvide;A;annuelle;voiture;oui;1;1;0;27;1;1;;sami;265;aycem;14603476
+ariana;aaa;90;aza;aaa;vide;A;annuelle;camion;oui;1;1;0;27;1;1;
+ariana;aaa;aaa;aaa;aaa;vide;A;mensuelle;moto;oui;1;1;0;27;1;1;;sami;265
+aaa;aaa;aaaa;aaa;aaa;vide;A;annuelle;camion;oui;1;1;0;27;1;1;
+aa;aa;90;aaa;aa;vide;A;mensuelle;moto;oui;2;1;0;27;1;1;
+aaa;aaa;96;aaa;aaa;nonvide;C;parjour;moto;non;1;1;0;27;1;1
+aaa;ariana;80;aaa;aaa;nonvide;B;annuelle;camion;oui;1;1;0;27;1;1;
+aza;aaa;2525;aaa;aaa;vide;A;mensuelle;camion;oui;1;1;0;27;1;1;
+aaa;aza;aaa;aaa;aaa;vide;A;annuelle;camion;oui;1;1;0;27;1;1;;sami;265
+aaa;aaa;aza;aaa;aa;vide;A;annuelle;camion;non;1;1;0;27;1;1;

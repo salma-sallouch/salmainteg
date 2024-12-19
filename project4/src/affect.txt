@@ -1,0 +1,4 @@
+12;aycem;aycem;12
+10;ahmed;ahmed;10
+14;racem;racem;14
+50;mohamed;mohamed;50

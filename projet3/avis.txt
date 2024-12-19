@@ -1,0 +1,2 @@
+852|very good|reclamation|cat2 |5.00|30/12/2013|urgent|3
+123|pas mal |reclamation|cat2 |3.00|12/12/2018|urgent|5

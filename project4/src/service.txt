@@ -1,0 +1,9 @@
+7858 Réservation_en_ligne 1 espece apres-midi 1 1 1 'YEs'
+7458 Lavage_de_voiture 88 espece apres-midi 36 6 1 'YEs'
+7458 Lavage_de_voiture 88 espece apres-midi 36 6 1 'YEs'
+5858 Lavage_de_voiture 1 espece apres-midi 1 1 1 'YEs'
+2525 Lavage_de_voiture 1 espece apres-midi 1 1 1 'YEs'
+66255 1 espece apres-midi 1 1 1 'YEs' 1
+espece apres-midi 1 1 1 'YEs' 1 espece apres-midi
+2525 Paiement_simplifié 1 espece apres-midi 1 1 1 'YEs'
+ 70 Lavage_de_voiture  11 carte matin 1 1 1 'YEs'
